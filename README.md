@@ -4,5 +4,5 @@ In this repository, you find the tutorial we will follow during the hands-on Git
 where `[link]` represents the SSH link you copied.
 
 ## Session participants
-- Jordi De Jonghe (presenting)
+- Jordi De Jonghe (presenting, almost done)
 - [insert your name here]
